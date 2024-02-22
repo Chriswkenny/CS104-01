@@ -1,3 +1,5 @@
+#CS104
+#Chris Kenny
 #Averaging test scores
 
 #Set Variables
